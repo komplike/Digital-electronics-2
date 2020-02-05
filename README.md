@@ -14,7 +14,7 @@ The repository contains learning material for bachelor course [*Digital Electron
 
 | **Computer lab exercise** | **Date** | **Description** |
 | :-- | :-- | :-- |
-| [01-gates](Labs/01-gates) | 05 - Feb - 2020 | Lab 1: Gates, Thruth tables, De Morgan;s law |
+| [01-gates](Labs/01-gates) | 05 - Feb - 2020 | Lab 1: Gates, Thruth tables, De Morgan's law |
 | ... || Lab 2: ... |
 | ... || Lab 3: ... |
 | ... || Lab 4: ... |
