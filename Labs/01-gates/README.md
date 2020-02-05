@@ -31,6 +31,8 @@
 
 De Morgan
 
+![De Morgan](./DeMorgan.png)
+
 ![equation](https://latex.codecogs.com/gif.latex?f%20%3D%20a%5Ccdot%20%5Coverline%7Bb%7D%20&plus;%20%5Coverline%7Bb%7D%5Ccdot%20%5Coverline%7Bc%7D)
 
 &nbsp;
