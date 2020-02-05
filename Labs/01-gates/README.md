@@ -1,4 +1,5 @@
-![and_gates](/gates.png)
+![and_gates](./gates.png)
+
 | **A** | **NOT** |
 | :-: | :-: |
 | 0 | 1 |
