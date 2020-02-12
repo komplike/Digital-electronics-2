@@ -8,6 +8,6 @@
 | 1 | 0 | 1 | 0 | 0 |
 | 1 | 1 | 0 | 1 | 0 |
 
-![]komparator.png)
+![komparator] komparator.png)
     
     
