@@ -8,6 +8,6 @@
 | 1 | 0 | 1 | 0 | 0 |
 | 1 | 1 | 0 | 1 | 0 |
 
-![komparator] Labs/02-comparator/komparator.png)
+![komparator]https://github.com/GabrielMastny/Digital-electronics-1/blob/master/Labs/02-comparator/komparator.png)
     
     
