@@ -1,5 +1,5 @@
 
-##decoder conversion table for common anode display
+decoder conversion table for common anode display
 
 | **Hex** | **Input** | **a** | **b** | **c** | **d** | **e** | **f** | **g** |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
