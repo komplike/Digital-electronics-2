@@ -17,7 +17,7 @@ The repository contains learning material for bachelor course [*Digital Electron
 | [01-gates](Labs/01-gates) | 05 - Feb - 2020 | Lab 1: Gates, Thruth tables, De Morgan's law |
 | [02-comparator](Labs/02-comparator) |12 - Feb - 2020| Lab 2: Comparator |
 | [03-segment](Labs/03-segment) |19 - Feb - 2020| Lab 3: 7segment display |
-| ... || Lab 4: ... |
+| [04-adder](Labs/04-adder) | 25 - Feb - 2020 | Lab 4: half/full adder |
 | ... || Lab 5: ... |
 | ... || Lab 6: ... |
 | ... || Lab 7: ... |
