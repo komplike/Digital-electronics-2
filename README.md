@@ -18,7 +18,7 @@ The repository contains learning material for bachelor course [*Digital Electron
 | [02-comparator](Labs/02-comparator) |12 - Feb - 2020| Lab 2: Comparator |
 | [03-segment](Labs/03-segment) |19 - Feb - 2020| Lab 3: 7segment display |
 | [04-adder](Labs/04-adder) | 25 - Feb - 2020 | Lab 4: half/full adder |
-| ... || Lab 5: ... |
+| [05-binary counter](Labs/05-counter_binary) | 03 - Mar - 2020 | Lab 5: binary counter |
 | ... || Lab 6: ... |
 | ... || Lab 7: ... |
 | ... || Lab 8: ... |
