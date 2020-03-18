@@ -75,10 +75,8 @@ decimalCounter3 : entity work.decimalCounter
    if rising_edge(clk_i) then  -- Rising clock edge
      if srst_n_i = '0' then  -- Synchronous reset (active low)
      en_dc0_s <= '0';  
-     elsif ce_100Hz_i and cnt_en_i then
-     	en_dc0_s <= '1';
      else
-     	en_dc0_s <= '0';     
+     	en_dc0_s <= ce_100Hz_i and cnt_en_i;     
      end if;
    end if;
   
