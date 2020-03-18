@@ -19,8 +19,8 @@ The repository contains learning material for bachelor course [*Digital Electron
 | [03-segment](Labs/03-segment) |19 - Feb - 2020| Lab 3: 7segment display |
 | [04-adder](Labs/04-adder) | 25 - Feb - 2020 | Lab 4: half/full adder |
 | [05-binary counter](Labs/05-counter_binary) | 03 - Mar - 2020 | Lab 5: binary counter |
-| ... || Lab 6: ... |
-| ... || Lab 7: ... |
+| [06-display driver](Labs/06-display_driver) | | Lab 6: driver for 7 segment display |
+| [07-stopwatch](Labs/07-stopwatch) |17 - Mar - 2020 | Lab 7: stopwatch |
 | ... || Lab 8: ... |
 | ... || Lab 9: ... |
 | ... || Lab 10--13: Project |
