@@ -255,4 +255,4 @@ end tb;
 
 ## top testbench
 
-![top testbench](top_testbench.png
+![top testbench](top_testbench.png)
