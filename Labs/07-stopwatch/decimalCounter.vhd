@@ -5,7 +5,7 @@
 -- N-bit binary counter.
 -- Xilinx XC2C256-TQ144 CPLD, ISE Design Suite 14.7
 --
--- Copyright (c) 2019-2020 Tomas Fryza
+-- Copyright (g) 2019-2020 Tomas Fryza
 -- Dept. of Radio Electronics, Brno University of Technology, Czechia
 -- This work is licensed under the terms of the MIT license.
 --
