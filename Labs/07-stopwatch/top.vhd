@@ -23,8 +23,7 @@ port (
     SW0_i 		: in std_logic;    -- stopwatch enable
     disp_seg_o	: out std_logic_vector(7-1 downto 0);
   	disp_dig_o	: out std_logic_vector(4-1 downto 0);
-    disp_dp_o	: out std_logic;
-    test : out std_logic
+    disp_dp_o	: out std_logic
 );
 end entity stopwatchTop;
 
@@ -42,13 +41,12 @@ disp_dig_o <= dig_s;
 disp_dp_o <= dp_s;
 srst_n_s <= BTN0_i;
 s_en <= SW0_i;
-test <= s_en;
 
     --------------------------------------------------------------------
     -- Sub-block of clock_enable entity. Create s_en signal.
     CLK_EN_0 : entity work.clock_enable
 			generic map (
-								g_NPERIOD => x"0014"
+								g_NPERIOD => x"0064"
 							)
 	port map (
 		 clk_i   => clk_i,   -- 10 kHz
