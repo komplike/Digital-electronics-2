@@ -146,7 +146,7 @@ s_en <= SW0_i;
     -- Sub-block of clock_enable entity. Create s_en signal.
     CLK_EN_0 : entity work.clock_enable
 			generic map (
-								g_NPERIOD => x"0028"
+								g_NPERIOD => x"0064"
 							)
 	port map (
 		 clk_i   => clk_i,   -- 10 kHz
