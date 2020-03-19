@@ -35,7 +35,7 @@ decimalCounter0 : entity work.decimalCounter
     
 decimalCounter1 : entity work.decimalCounter
     generic map (
-                        pwm => 5
+                        pwm => 9
                                 )
 	port map (
 		 clk_i => clk_i,
