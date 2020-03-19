@@ -209,14 +209,12 @@ port (
     SW0_i 		: in std_logic;    -- stopwatch enable
     disp_seg_o	: out std_logic_vector(7-1 downto 0);
   	disp_dig_o	: out std_logic_vector(4-1 downto 0);
-    disp_dp_o	: out std_logic;
-    test : out std_logic
+    disp_dp_o	: out std_logic
 );
 end component;
 
  	signal clk_s : std_logic := '0';
     signal s_en, srst_n_s, dp_s  : std_logic := '1';
-    signal test_S :std_logic;
     signal dig_s : std_logic_vector(4-1 downto 0);
     signal seg_s : std_logic_vector(6 downto 0);
 
